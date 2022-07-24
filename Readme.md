@@ -1,5 +1,7 @@
-# Project 4
+# Memory JavaScript Game
 
+<<<<<<< HEAD
+=======
 In light of recent events your company have discovered that they need to release some pressure of their employees and they needed a quick way to do so, therefore you are tasked with creating a game similar to this [design](https://www.figma.com/file/01FHtd0tROgruHCKveKOqc/Emoji-Memory?node-id=1%3A47) but better (the company's UI/UX designer was depressed and busy)
 ## welcome screen
 ![welcome](./assets/Login%20Screen.png)
@@ -27,3 +29,4 @@ here are the list of requirements that came directly from the CEO:
 - have an additional timer based mode (where you have a limited time to complete the game before you lose)
 - show a preview of all the cards at the beginning of the game  
 - offer a tutorial mode 
+>>>>>>> ca6545a73896eb69f21f153006a9304a3917566c
